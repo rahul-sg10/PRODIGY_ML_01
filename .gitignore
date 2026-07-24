@@ -1,0 +1,8 @@
+kaggle.json
+*.kaggle.json
+.kaggle/
+.ipynb_checkpoints/
+house_prices_data/
+*.zip
+.DS_Store
+__pycache__/
