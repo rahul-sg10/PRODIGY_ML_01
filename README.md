@@ -23,3 +23,6 @@ Linear Regression (scikit-learn)
 Built a linear regression model to predict house sale prices using square footage, number of bedrooms, and total bathrooms. The model captures general pricing trends, though the R^2 of 0.629 suggests other factors (location, quality, lot size, etc.) also significantly influence price.
 
 ![Actual vs Predicted](actual_vs_predicted.png)
+
+## Author
+Rahul Sohan Singh — ML Intern, Prodigy InfoTech
